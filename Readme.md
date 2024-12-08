@@ -2,7 +2,6 @@
 
 - [About The Project](#about-the-project)
 - [About the Data](#about-the-data)
-  - [Target Variable](#target-variable)
   - [Dataset Source Link](#dataset-source-link)
 - [Technology Stack](#technology-stack)
 - [Getting Started](#getting-started)
@@ -31,10 +30,6 @@ The primary objective of this project is to develop a predictive model that can 
 - math score
 - reading score
 - writing score
-
-### Target Variable
-
-- MEDV: Median value of owner-occupied homes in $1000s
 
 ### Dataset Source Link
 
