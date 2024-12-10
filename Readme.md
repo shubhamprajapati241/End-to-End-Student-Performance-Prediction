@@ -16,6 +16,8 @@
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
+![prediction](prediction.png)
+
 ## About The Project
 
 The primary objective of this project is to develop a predictive model that can forecast the performance of students in their academic projects. The model aims to help educators and institutions identify students who may need additional support or intervention early in the project development process, ultimately enhancing overall student success.
@@ -33,7 +35,7 @@ The primary objective of this project is to develop a predictive model that can 
 
 ### Dataset Source Link
 
-Dataset Url : ` https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977`
+Dataset Url : `https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977`
 
 ## Technology Stack
 
